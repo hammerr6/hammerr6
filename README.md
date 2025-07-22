@@ -21,6 +21,6 @@ Here are some ideas to get you started:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
 </picture>
 
-mode 100644 profile-3d-contrib/profile-gitblock.svg
+profile-gitblock.svg
 
 
