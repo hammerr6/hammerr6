@@ -21,5 +21,5 @@ Here are some ideas to get you started:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
 </picture>
 <picture>
-![GitHub Logo](https://raw.githubusercontent.com/hammerr6/hammerr6/refs/heads/main/profile-3d-contrib/profile-green.svg)
+  <![GitHub Logo](https://raw.githubusercontent.com/hammerr6/hammerr6/refs/heads/main/profile-3d-contrib/profile-green.svg)>
 </picture>
